@@ -1,0 +1,1 @@
+All 12 driver dry-runs passed: exact sequences, SEP positions, 20 distinct new seeds per task, 10 recycles, 1 sample. All 3 frozen-driver validations passed. Completion validator accepts a simulated complete batch and rejects a missing model. Bash syntax check and Python syntax checks passed. No GPU jobs submitted locally.
